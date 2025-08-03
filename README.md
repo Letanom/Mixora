@@ -18,7 +18,6 @@ A stunning, beautifully designed lottery/raffle app for iOS with incredible anim
 ## 💰 AdMob Integration
 
 ### Your Ad Configuration
-- **App ID**: `ca-app-pub-3104321858083722~9177837582`
 - **Banner Ads**: Shown occasionally when users have 3+ participants
 - **Interstitial Ads**: Displayed after winner announcement (every 5th draw)
 - **Responsive**: Adaptive banner sizes for all iOS devices
